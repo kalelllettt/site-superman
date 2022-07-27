@@ -13,7 +13,7 @@ function App() {
         <div>
           <h3>Morada:</h3>
           <p>
-            Povoado de Sallvile, que foca no condado de de Lowell, Kansas, EUA,
+            Povoado de Smallville, que foca no condado de de Lowell, Kansas, EUA,
             fundada por Ezra Small. Clark Kent viveu na cidade desde que foi
             adotado por Jonathan e Martha Kent. Smallville está localizada a
             umaP curta distância de Metropolis, 425 milhas de Hub City e perto

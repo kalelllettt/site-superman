@@ -1,4 +1,7 @@
 import "./App.css";
+import {
+  Link
+} from "react-router-dom";
 
 function App() {
   return (
@@ -13,9 +16,9 @@ function App() {
         <div>
           <h3>Morada:</h3>
           <p>
-            Povoado de Smallville, que foca no condado de de Lowell, Kansas, EUA,
-            fundada por Ezra Small. Clark Kent viveu na cidade desde que foi
-            adotado por Jonathan e Martha Kent. Smallville está localizada a
+            Povoado de Smallville, que foca no condado de de Lowell, Kansas,
+            EUA, fundada por Ezra Small. Clark Kent viveu na cidade desde que
+            foi adotado por Jonathan e Martha Kent. Smallville está localizada a
             umaP curta distância de Metropolis, 425 milhas de Hub City e perto
             também de Grandville.
           </p>
@@ -39,12 +42,31 @@ function App() {
         <div>
           <h3>Vilões clàssicos do Superman:</h3>
           <p>
-            Lex Luthor, Bizarro, Darkseid, Ultraman, Solomon Grundy, Erradicador,
-            Apocalypse, Superman Ciborgue, General Zod, Superboy Primordial,
-            Imperiex, Caveira Atômica, Sanguinário I, Sanguinário II, Blaze,
-            Lorde Satanus, Barão Sunday, Bomba-Relógio, Homem-Brinquedo, etc...{" "}
+            Lex Luthor, Bizarro, Darkseid, Ultraman, Solomon Grundy,
+            Erradicador, Apocalypse, Superman Ciborgue, General Zod, Superboy
+            Primordial, Imperiex, Caveira Atômica, Sanguinário I, Sanguinário
+            II, Blaze, Lorde Satanus, Barão Sunday, Bomba-Relógio,
+            Homem-Brinquedo, etc...{" "}
           </p>
         </div>
+        <div>
+          <h3>Qual a fraqueza do Superman?</h3>
+          <p>
+            A kryptonita é um mineral kryptoniano que tem o efeito principal de
+            enfraquecer o (de outro modo invulnerável) Superman. O mineral,
+            usualmente explicado como tendo sido criado dos restos do planeta
+            natal do Superman, Krypton, geralmente tem efeitos nocivos ao
+            Superman. O nome "kryptonita" cobre uma variedade de formas do
+            mineral, mas usualmente se refere à forma mais comum, a Kryptonita
+            Verde. A primeira ideia de Kryptonita foi criada em 1940 pelo
+            co-criador do Superman e da Supergirl, Jerry Siegel, em uma história
+            que envolvia um pedaço de Krypton, chamado de "K-Metal", que roubava
+            a força de Superman enquanto dava aos terráqueos super-poderes. Lex Luthor foi o primeiro vilão a achar a kryptonita.<br/>
+               
+            <Link to="/tipos-de-kryptonita">Tipos de kryptonita</Link>
+          </p>
+        </div>
+
         <div>
           <h3>História</h3>
           <p>

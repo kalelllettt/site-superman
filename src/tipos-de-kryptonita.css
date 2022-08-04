@@ -1,0 +1,76 @@
+.verde {
+  display: flex;
+  flex-direction: column;
+  min-height: 25vh;
+  background-color: chartreuse;
+  color: black;
+  padding: 20px;
+}
+
+.vermelho {
+  display: flex;
+  flex-direction: column;
+  min-height: 25vh;
+  background-color: red;
+  color: black;
+  padding: 20px;
+}
+
+
+
+
+.dourada {
+  display: flex;
+  flex-direction: column;
+  min-height: 25vh;
+  background-color:gold;
+  color: black;
+  padding: 20px;
+}
+
+
+
+.preta{
+  display: flex;
+  flex-direction: column;
+  min-height: 25vh;
+  background-color:black;
+  color:white;
+  padding: 20px;
+}
+ 
+
+.azul  {
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  min-height: 25vh;
+  color: black;
+}
+
+.branca {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  min-height: 25vh;
+  color: black;
+}
+
+
+.anti-kryptonita {
+  background-color: rgb(42, 251, 0);
+  display: flex;
+  flex-direction: column;
+  min-height: 25vh;
+  color: black;
+}
+
+
+.kryptonitaArtifial {
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  min-height: 25vh;
+  color: black;
+}
+
